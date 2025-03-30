@@ -1,0 +1,20 @@
+﻿[update]
+newversion=2.0.0.0
+localversion=UpdaterTMS.exe
+
+[files]
+count=1
+
+[file1]
+url=D:\updt\UpdaterTMS.CAB
+newversion=2.0.0.0
+localversion=UpdaterTMS.exe
+targetdir={app}
+descr=some application
+compressed=0
+
+[application]
+appupdate=1
+appname=UpdaterTMS.exe
+appcomps=UpdaterTMS.CAB 
+
