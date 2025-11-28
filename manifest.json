@@ -2,8 +2,9 @@
   "update": [
     {
       "version": "v1.0.0",
-      "comment": "https://github.com/OWNER/REPO/releases/download/v1.0/MyApp.exe"
+      "Fix some bugs."
     }
   ]
 }
+
 
